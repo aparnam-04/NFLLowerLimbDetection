@@ -5,5 +5,7 @@ We build a model that detects key points identifying human body joints in order 
 
 
 Requirements:
+
 -Data annotations of photographs of players with heels and toes marked.
+
 -YoloV5 installation
